@@ -1,0 +1,3 @@
+
+2023-06-01T14:00:34.332498200: neues Konto angelegt, KontoIdNr.: 10000
+2023-06-01T14:00:52.719736900: neues Konto angelegt, KontoIdNr.: 10001
